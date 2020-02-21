@@ -1,0 +1,16 @@
+#include<iostream>
+#include <algorithm>
+using namespace std;
+int main()
+{
+    char word[6]={'a','b','c','d','e','f'};
+    do
+    {
+        cout<<num[0]<<num[1]<<num[2]<<num[3]<<num[4]<<num[5]<<endl;
+
+    }
+
+    while(next_permutation(num,num+6));
+
+    return 0;
+}
